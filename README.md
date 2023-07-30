@@ -29,8 +29,8 @@ Set up your own schedule based on how you want to play. Schedule shifts, rotatio
 
 ### Dedicated Discord community and support
 Get help from the user community or use the ticket system for the more technical issue support. Our Discord protects members by only showing people of the same role thus looking as though we are inactive however we are active.<br>
-**[Click Here For Discord](https://discord.com/invite/Mc4j2daEH3)** ![Discord](https://img.shields.io/discord/1073035059810021406.svg?label=AutoBot&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)<br>
-**[Click Here For Website](https://autobots.mysellix.io/)** ![status](https://badgen.net/badge/Status/Online/green)
+**[Click Here For Discord](https://discord.com/invite/Mc4j2daEH3)** ![Discord](https://img.shields.io/discord/1073035059810021406.svg?label=SendIT&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)<br>
+**[Click Here For Website](https://SendIT.mysellix.io/)** ![status](https://badgen.net/badge/Status/Online/green)
 
 ### Automatic Updates.
 Software is automatically updated, by default, keeping you current as new missions and units are implemented or when mission requirements change.
