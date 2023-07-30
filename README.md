@@ -19,8 +19,8 @@ An auto dispatch for when the patients, prisoners or missions are too many! :smi
 ### Our Software
 Our software status as of 10th June 2023 is currently online you can check its status here -> ![status](https://badgen.net/badge/Status/Online/green)
 
-### **All versions of the game are supported!**
-![country-au](https://img.shields.io/badge/AU%3F-yes-green.svg) ![country-br](https://img.shields.io/badge/BR%3F-yes-green.svg) ![country-cz](https://img.shields.io/badge/CZ%3F-yes-green.svg) ![country-de](https://img.shields.io/badge/DE%3F-yes-green.svg) ![country-dk](https://img.shields.io/badge/DK%3F-yes-green.svg) ![country-es](https://img.shields.io/badge/ES%3F-yes-green.svg) ![country-fl](https://img.shields.io/badge/FL%3F-yes-green.svg) ![country-fr](https://img.shields.io/badge/FR%3F-yes-green.svg) ![country-it](https://img.shields.io/badge/IT%3F-yes-green.svg) ![country-jp](https://img.shields.io/badge/JP%3F-yes-green.svg) ![country-kr](https://img.shields.io/badge/KR%3F-yes-green.svg) ![country-mx](https://img.shields.io/badge/MX%3F-yes-green.svg) ![country-nl](https://img.shields.io/badge/NL%3F-yes-green.svg) ![country-no](https://img.shields.io/badge/NO%3F-yes-green.svg)![country-pl](https://img.shields.io/badge/PL%3F-yes-green.svg) ![country-pt](https://img.shields.io/badge/PT%3F-yes-green.svg) ![country-ro](https://img.shields.io/badge/RO%3F-yes-green.svg) ![country-ru](https://img.shields.io/badge/RU%3F-yes-green.svg) ![country-se](https://img.shields.io/badge/SE%3F-yes-green.svg) ![country-sk](https://img.shields.io/badge/SK%3F-yes-green.svg) ![country-tr](https://img.shields.io/badge/TR%3F-yes-green.svg) ![country-ua](https://img.shields.io/badge/UA%3F-yes-green.svg) ![country-uk](https://img.shields.io/badge/UK%3F-yes-green.svg) ![country-us](https://img.shields.io/badge/US%3F-yes-green.svg)
+### **All current versions of the game are supported!**
+
 ### Rich Feature Options.
 Options include:  hire staff, patient/prisoner transports, support for own missions, and/or alliance missions & events, and more!
 
