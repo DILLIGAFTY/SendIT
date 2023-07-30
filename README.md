@@ -6,7 +6,7 @@ SendIT Bot for Missionchief and other associated games for auto dispatching and 
   <img src="https://imagedelivery.net/95QNzrEeP7RU5l5WdbyrKw/7972e3a6-74ed-46d9-c1cc-b26de4edd200/shopitem" />
 </p> 
 
-# MissionChief SendIT ![status](https://badgen.net/badge/Status/Online/green) ![version](https://badgen.net/badge/Version/1.0/) ![Discord](https://img.shields.io/discord/1073035059810021406.svg?label=AutoBot&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+# MissionChief SendIT ![status](https://badgen.net/badge/Status/Online/green) ![version](https://badgen.net/badge/Version/1.0/) ![Discord](https://img.shields.io/discord/1073035059810021406.svg?label=SendIT&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
 
 An auto dispatch for when the patients, prisoners or missions are too many! :smiley:
 
