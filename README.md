@@ -6,7 +6,7 @@ SendIT Bot for Missionchief and other associated games for auto dispatching and 
   <img src="https://imagedelivery.net/95QNzrEeP7RU5l5WdbyrKw/7972e3a6-74ed-46d9-c1cc-b26de4edd200/shopitem" />
 </p> 
 
-# MissionChief AutoBot ![status](https://badgen.net/badge/Status/Online/green) ![version](https://badgen.net/badge/Version/1.0/) ![Discord](https://img.shields.io/discord/1073035059810021406.svg?label=AutoBot&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+# MissionChief SendIT ![status](https://badgen.net/badge/Status/Online/green) ![version](https://badgen.net/badge/Version/1.0/) ![Discord](https://img.shields.io/discord/1073035059810021406.svg?label=AutoBot&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
 
 An auto dispatch for when the patients, prisoners or missions are too many! :smiley:
 
@@ -36,7 +36,7 @@ Get help from the user community or use the ticket system for the more technical
 Software is automatically updated, by default, keeping you current as new missions and units are implemented or when mission requirements change.
 
 ### How can I find it?
-**[Visit Link](https://autobots.mysellix.io/)** - Our software is a subscription based service and for education purposes only.
+**[Visit Link](https://sendit.mysellix.io/)** - Our software is a subscription based service and for education purposes only.
 
 # Information
 When Missionchiefbot was shut down in January, a group of users came together to try and revive it. That attempt failed due to misappropriation of funds.  This version we now offer is now free of that issue!.  The group of people behind this version are all previous admins of the original version!  Subscriptions help us develop new features and retain our programmers who take our ideas and put them into use.
