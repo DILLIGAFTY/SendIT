@@ -3,7 +3,7 @@ SendIT Bot for Missionchief and other associated games for auto dispatching and 
 # Preview
 
 <p align="center">
-  <img src="https://imagedelivery.net/95QNzrEeP7RU5l5WdbyrKw/bb6ba538-0867-42e9-d24c-2a52885c6300 />
+  <img src="https://imagedelivery.net/95QNzrEeP7RU5l5WdbyrKw/bb6ba538-0867-42e9-d24c-2a52885c6300" />
 </p> 
 
 # MissionChief SendIT ![status](https://badgen.net/badge/Status/Online/green) ![version](https://badgen.net/badge/Version/5.0/) ![Discord](https://img.shields.io/discord/1115084311025168506.svg?label=SendIT&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
